@@ -1,5 +1,5 @@
 name: kotest-ci-sample
-run-name: ${{ github.actor }} is Kotest GitHub Actions
+
 on: [push]
 jobs:
   build:
